@@ -20,9 +20,6 @@ export function Hero() {
         <p className="dim hero-summary">{profile.summary}</p>
         <div className="hero-links">
           <span>
-            &gt; <a href={`mailto:${profile.email}`}>email</a>
-          </span>
-          <span>
             &gt;{" "}
             <a href={profile.linkedin} target="_blank" rel="noreferrer">
               linkedin

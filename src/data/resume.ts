@@ -5,7 +5,6 @@ export const profile = {
     "Building AI-driven tooling and IT infrastructure inside regulated environments. Background in cloud security, compliance, and Zero Trust architecture from federal and financial systems work.",
   about:
     "I'm an AI/IT Engineer working within a regulated financial services environment, integrating AI tooling into enterprise IT operations. My background runs through federal defense systems and payment infrastructure — where the security fundamentals came from. Currently completing a Master's in Cybersecurity.",
-  email: "kinsleywhite9@gmail.com",
   linkedin: "https://www.linkedin.com/in/kinsley-white-ga/",
   github: "https://github.com/devseckinzlo",
 };

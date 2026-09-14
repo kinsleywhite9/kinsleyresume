@@ -7,7 +7,6 @@ export function Contact() {
         <span className="prompt">$</span> contact --open
       </div>
       <div className="contact-links">
-        <a href={`mailto:${profile.email}`}>email</a>
         <a href={profile.linkedin} target="_blank" rel="noreferrer">
           linkedin
         </a>
